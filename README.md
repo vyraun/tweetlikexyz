@@ -5,7 +5,7 @@ LTSM network to mimic how someone else tweets
 ```
 bower install
 npm install
-pip install -r requirements
+pip install -r requirements.txt
 ```
 # Running server
 ```
